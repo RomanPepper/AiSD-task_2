@@ -1,0 +1,4 @@
+olga, 20
+maria, 18,
+anastasia, 23,
+valera, 19
